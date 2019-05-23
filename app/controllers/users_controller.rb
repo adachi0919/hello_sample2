@@ -5,4 +5,7 @@ class UsersController < ApplicationController
     @greeting = "GoodMorning!!"
     @introduce = "I like sushi"
   end
+
+  def introduction
+  end
 end
