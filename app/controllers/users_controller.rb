@@ -8,4 +8,7 @@ class UsersController < ApplicationController
 
   def introduction
   end
+
+  def greeting
+  end
 end
