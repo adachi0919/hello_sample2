@@ -3,5 +3,6 @@ class UsersController < ApplicationController
     @message = "Hello World!!"
     @introduction = "My name is Keisuke"
     @greeting = "GoodMorning!!"
+    @introduce = "I like sushi"
   end
 end
